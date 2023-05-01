@@ -1,0 +1,1 @@
+C:\Users\neto_\source\repos\AppTarefas\AppTarefas\AppTarefas.UWP\AppTarefas.UWP.csproj;x86

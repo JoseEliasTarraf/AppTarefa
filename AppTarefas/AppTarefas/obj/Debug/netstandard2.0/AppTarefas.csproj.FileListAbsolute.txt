@@ -1,0 +1,17 @@
+C:\Users\neto_\source\repos\AppTarefas\AppTarefas\AppTarefas\bin\Debug\netstandard2.0\AppTarefas.deps.json
+C:\Users\neto_\source\repos\AppTarefas\AppTarefas\AppTarefas\bin\Debug\netstandard2.0\AppTarefas.dll
+C:\Users\neto_\source\repos\AppTarefas\AppTarefas\AppTarefas\bin\Debug\netstandard2.0\ref\AppTarefas.dll
+C:\Users\neto_\source\repos\AppTarefas\AppTarefas\AppTarefas\bin\Debug\netstandard2.0\AppTarefas.pdb
+C:\Users\neto_\source\repos\AppTarefas\AppTarefas\AppTarefas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\neto_\source\repos\AppTarefas\AppTarefas\AppTarefas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\neto_\source\repos\AppTarefas\AppTarefas\AppTarefas\obj\Debug\netstandard2.0\AppTarefas.csproj.CoreCompileInputs.cache
+C:\Users\neto_\source\repos\AppTarefas\AppTarefas\AppTarefas\obj\Debug\netstandard2.0\AppTarefas.AssemblyInfoInputs.cache
+C:\Users\neto_\source\repos\AppTarefas\AppTarefas\AppTarefas\obj\Debug\netstandard2.0\AppTarefas.AssemblyInfo.cs
+C:\Users\neto_\source\repos\AppTarefas\AppTarefas\AppTarefas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\neto_\source\repos\AppTarefas\AppTarefas\AppTarefas\obj\Debug\netstandard2.0\AppTarefas.dll
+C:\Users\neto_\source\repos\AppTarefas\AppTarefas\AppTarefas\obj\Debug\netstandard2.0\ref\AppTarefas.dll
+C:\Users\neto_\source\repos\AppTarefas\AppTarefas\AppTarefas\obj\Debug\netstandard2.0\AppTarefas.pdb
+C:\Users\neto_\source\repos\AppTarefas\AppTarefas\AppTarefas\obj\Debug\netstandard2.0\Telas\Listar.xaml.g.cs
+C:\Users\neto_\source\repos\AppTarefas\AppTarefas\AppTarefas\obj\Debug\netstandard2.0\AppTarefas.csproj.AssemblyReference.cache
+C:\Users\neto_\source\repos\AppTarefas\AppTarefas\AppTarefas\obj\Debug\netstandard2.0\Telas\Cadastrar.xaml.g.cs
+C:\Users\neto_\source\repos\AppTarefas\AppTarefas\AppTarefas\obj\Debug\netstandard2.0\Telas\Visualizar.xaml.g.cs
